@@ -14,3 +14,7 @@ node_modules
 *.sqlite
 npm-debug.log
 /.idea
+
+out/
+# TS -incremental file
+tsconfig.tsbuildinfo
